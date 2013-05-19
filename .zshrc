@@ -91,4 +91,5 @@ done
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #toilet -f bigmono9 -F metal "Archy"
 #TERM=xterm-256color
+#ololo
 
